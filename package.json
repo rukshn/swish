@@ -1,0 +1,22 @@
+{
+  "name": "swish",
+  "version": "1.0.0",
+  "description": "A decentralized social graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukshn/swish.git"
+  },
+  "author": "Rukshan Ranatunge (arkruka@gmail.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rukshn/swish/issues"
+  },
+  "homepage": "https://github.com/rukshn/swish#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
